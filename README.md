@@ -25,5 +25,3 @@ To provide users with an entertaining and bond-building experience. We want to c
 **Name:** Sara Vaughan \
 **GitHub Username:** SV0508@github.com \
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/sara-vaughan/Digital%20Portfolio/index.html)
-
-test
