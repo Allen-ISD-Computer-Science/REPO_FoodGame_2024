@@ -2,7 +2,8 @@
 CS-II/III ISP PROJECT 2023-2024
 
 # Vision Statement
-To provide users with an entertaining and bond-building experience. We want to create a game that will give users of all ages new found joy and entertainment, and serve as a refresher in comparison to other mainstream games and genres. Micro-transactions will become avaliable to committed players. 
+To provide users with an entertaining and bond-building experience. We want to create a game that will give users of all ages new found joy and entertainment, and serve as a refresher in comparison to other mainstream games and genres. Micro-transactions will become avaliable to committed players.
+
 # Roles
 
 ### **Product Manager**
@@ -25,5 +26,3 @@ To provide users with an entertaining and bond-building experience. We want to c
 **Name:** Sara Vaughan \
 **GitHub Username:** SV0508@github.com \
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/sara-vaughan/Digital%20Portfolio/index.html)
-
-test
