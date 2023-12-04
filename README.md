@@ -18,7 +18,7 @@ To provide users with an entertaining and bond-building experience.
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/melanie-lopez-de-nava-reza/Digital%20Portfolio/index.html)
 
 ### **Quality Assurance Analyst**
-**Name:** Nathan Koch \
+**Name:** Nathan Koch\
 **GitHub Username:** NathanK1025@github.com \
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/nathan-koch/Digital%20Portfolio/index.html)
 
