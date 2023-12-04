@@ -2,7 +2,7 @@
 CS-II/III ISP PROJECT 2023-2024
 
 # Vision Statement
-To provide users with an entertaining and bond-building experience.
+To provide users with an entertaining and bond-building experience. We want to create a game that will give users of all ages new found joy and entertainment, and serve as a refresher in comparison to other mainstream games and genres. Micro-transactions will become avaliable to committed players.
 
 # Roles
 
