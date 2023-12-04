@@ -15,7 +15,7 @@ To provide users with an entertaining and bond-building experience.
 ### **Project Manager**
 **Name:** Melanie Lopez de Nava Reza \
 **GitHub:** nxchotakuu@github.com \
-**Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/melanie-lopez-de-nava-reza/Digital%20Portfolio/index.html)
+**Digital Portfolio:** [Melanie's Digital Portfolio](https://www.codermerlin.academy/users/melanie-lopez-de-nava-reza/Digital%20Portfolio/index.html)
 
 ### **Quality Assurance Analyst**
 **Name:** Nathan Koch\
