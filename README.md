@@ -25,4 +25,4 @@ To provide users with an entertaining and bond-building experience.
 ### **UI/UX Designer**
 **Name:** Sara Vaughan \
 **GitHub Username:** SV0508@github.com \
-**Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/sara-vaughanDigital%20Portfolio/index.html)
+**Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/sara-vaughan/Digital%20Portfolio/index.html)
