@@ -1,4 +1,7 @@
 -- STUDIO SERVICES
+
+local RunService = game:GetService("RunService")
+local Players = game:GetService("Players")
 local DatastoreService = game:GetService("DataStoreService")
 local ServerScriptService = game:GetService("ServerScriptService")
 
