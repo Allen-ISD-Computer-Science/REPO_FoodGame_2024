@@ -76,7 +76,7 @@ end
 Players.PlayerAdded:Connect(loadData)
 Players.PlayerRemoving:Connect(function(plr)
 	saveData(plr)
-	PlayerModule.RemovePlayer(plr.UserId)
+	PlayerData.RemoveUser(plr.UserId)
 end)
 
 game:BindToClose(closeServer)
