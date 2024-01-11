@@ -1,7 +1,13 @@
+-- STUDIO SERVICES
 local DatastoreService = game:GetService("DataStoreService")
 local ServerScriptService = game:GetService("ServerScriptService")
 
+-- CUSTOM SERVICES/CLASSES
+local PlayerData = require(ServerScriptService.Modules.PlayerData)
+
+-- DATASTORES
 local primaryDatastore = DatastoreService:GetDataStore("placeholderStore")
+-- set up backup datastore later
 
 function waitForReqBudget(reqType)
 	local currBudget = DatastoreService:GetRequestBudgetForRequestType(reqType)
@@ -31,11 +37,12 @@ function loadData(plr: Player)
 	if not Players:FindFirstChild(plr.Name) then return end
 	local success, playerData = EnsureProtectedCall(plr, primaryDatastore.GetAsync, primaryDatastore, Enum.DataStoreRequestType.GetAsync, plr.UserId)
 	if not success then return end
-	--TBD: DataService, SettingService, PlayerData class modules
+	-- TBD: DataService, SettingService modules
+	-- PlayerData.AddUser(plr.UserId, dataService, settingService)
 end
 
 local function saveData(plr: Player, noDelay)
-	-- local playerData = PlayerModule.GetPlayer(plr.UserId) [METHOD INCOMPLETE]
+	-- local playerData = PlayerData.GetUser(plr.UserId)
 	if not playerData then return end
 	local dataToSave = {
 		--populate with stuff from DataService, SettingService when completed
