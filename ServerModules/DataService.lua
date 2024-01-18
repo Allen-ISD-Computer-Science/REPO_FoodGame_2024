@@ -2,10 +2,11 @@
 local DataService = {}
 
 local ServerScriptService = game:GetService("ServerScriptService")
-
+local MarketplaceService = game:GetService("MarketplaceService")
 
 function DataService.new(user: Player)
 	 local self = {
+	       ["user"] = Player;
 	       ["stats"] = {};
 	       ["currencies"] = {};
 	       ["ownedGamepasses"] = {};
@@ -23,12 +24,27 @@ function DataService:LoadPlayerData(data): boolean
 	 return true
 end
 
+function DataService:IncrementCurrency(currency: string, amt: number)
+	assert(self.currencies[currency] ~= nil, "lol there is none of that currency in this game")
+	self.currencies[currency] += amt
+end
+
+function DataService:RegisterGamepass(gamepass: string, passId): boolean
+	if self:CheckOwnedGamepass(gamepass, passId) then return false end
+	table.insert(self.ownedGamepasses, gamepass)
+	return true
+end
+
 function DataService:GetAll()
 	 return self
 end
 
 function DataService:GetStats()
 	 return self.stats
+end
+
+function DataService:CheckOwnedGamepass(gamepass: string, passId: number): boolean
+	return table.find(self.ownedGamepasses, gamepass) or MarketplaceService:UserOwnsGamePassAsync(self.user.UserId, passId)
 end
 
 function DataService:GetOwnedGamepasses()
