@@ -12,7 +12,7 @@ To provide users with an entertaining and bond-building experience. We want to c
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/nathan-charles/Digital%20Portfolio/index.html) 
 
 
-### **Project Manager**
+### **Project Manager + UI/UX Designer #2**
 **Name:** Melanie Lopez de Nava Reza \
 **GitHub:** nxchotakuu@github.com \
 **Digital Portfolio:** [Melanie's Digital Portfolio](https://www.codermerlin.academy/users/melanie-lopez-de-nava-reza/Digital%20Portfolio/index.html)
@@ -22,7 +22,7 @@ To provide users with an entertaining and bond-building experience. We want to c
 **GitHub Username:** NathanK1025@github.com \
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/nathan-koch/Digital%20Portfolio/index.html)
 
-### **UI/UX Designer**
+### **UI/UX Main Designer**
 **Name:** Sara Vaughan \
 **GitHub Username:** SV0508@github.com \
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/sara-vaughan/Digital%20Portfolio/index.html)
