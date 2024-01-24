@@ -22,7 +22,7 @@ To provide users with an entertaining and bond-building experience. We want to c
 ### **Quality Assurance Analyst**
 **Name:** Nathan Koch\
 **GitHub Username:** NathanK1025@github.com \
-**Roblox Username:** @ \
+**Roblox Username:** @ Nakdog9_turtle\
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/nathan-koch/Digital%20Portfolio/index.html)
 
 ### **UI/UX Main Designer**
