@@ -13,7 +13,7 @@ To provide users with an entertaining and bond-building experience. We want to c
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/nathan-charles/Digital%20Portfolio/index.html) 
 
 
-### **Project Manager + UI/UX Designer #2**
+### **UI/UX Designer**
 **Name:** Melanie Lopez de Nava Reza \
 **GitHub:** nxchotakuu@github.com \
 **Roblox Username:** @yeepona \
@@ -25,7 +25,7 @@ To provide users with an entertaining and bond-building experience. We want to c
 **Roblox Username:** @ Nakdog9_turtle\
 **Digital Portfolio:** [Digital Portfolio](https://www.codermerlin.academy/users/nathan-koch/Digital%20Portfolio/index.html)
 
-### **UI/UX Main Designer**
+### **Project Manager**
 **Name:** Sara Vaughan \
 **GitHub Username:** SV0508@github.com \
 **Roblox Username:** @0bluebunny0 \
